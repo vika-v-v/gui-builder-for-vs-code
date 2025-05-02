@@ -1,6 +1,6 @@
 <h1>GUI Builder for Java Swing and Java FX</h1>
 
-<p>Hey there! This is a minimalistic GUI Builder extension for VS Code made to boost your UI development ⏱️. Just drag and drop your UI elements and get a working app in minutes ✨. </p>
+<p>This repository features only the documentation and images for the "GUI Builder" extension. GUI Builder is a minimalistic GUI Builder extension for VS Code made to boost your UI development ⏱️. Just drag and drop your UI elements and get a working app in minutes ✨. </p>
 
 ![Demo](https://raw.githubusercontent.com/vika-v-v/gui-builder-for-vs-code/basic/demo.gif)
 
